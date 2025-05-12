@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -24,9 +27,15 @@
         <a href="/contact" class="text-lg hover:text-gray-300">Contact</a>
       </nav>
 
-      <!-- Menu Burger (Mobile) -->
-      <div class="md:hidden">
-        <button id="burgerMenu" class="text-white hover:text-gray-300 focus:outline-none">
+      <!-- Menu Burger + Bouton -->
+      <div class="flex items-center space-x-4">
+        <!-- Bouton -->
+        <button class="hidden md:inline-block bg-blue-600 text-white font-semibold py-2 px-4 rounded hover:bg-blue-700 transition">
+          Commencer
+        </button>
+
+        <!-- Menu Burger (Mobile) -->
+        <button id="burgerMenu" class="md:hidden text-white hover:text-gray-300 focus:outline-none">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"
                xmlns="http://www.w3.org/2000/svg">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
