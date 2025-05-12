@@ -1,21 +1,19 @@
-<?php
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link href="resources/css/app.css" rel="stylesheet">
+    <title>Test TailwindCSS</title>
+    @vite('resources/css/app.css')  <!-- Assurez-vous que le fichier CSS est chargé -->
 </head>
-<body>
-<div class="mx-auto flex max-w-sm items-center gap-x-4 rounded-xl bg-white p-6 shadow-lg outline outline-black/5 dark:bg-slate-800 dark:shadow-none dark:-outline-offset-1 dark:outline-white/10">
-  <img class="size-12 shrink-0" src="/img/logo.svg" alt="ChitChat Logo" />
-  <div>
-    <div class="text-xl font-medium text-black dark:text-white">ChitChat</div>
-    <p class="text-gray-500 dark:text-gray-400">You have a new message!</p>
-  </div>
-</div>
+<body class="bg-gray-100">
+
+    <div class="min-h-screen flex items-center justify-center">
+        <div class="text-center bg-white p-8 rounded-lg shadow-lg">
+            <h1 class="text-4xl font-bold text-blue-600">Hello, TailwindCSS!</h1>
+            <p class="mt-4 text-lg text-gray-600">This is a simple test of TailwindCSS in Laravel.</p>
+        </div>
+    </div>
+
 </body>
 </html>
