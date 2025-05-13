@@ -87,6 +87,20 @@
 </p>
 </div>
 
+<br />
+<div>
+  <div class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-6 gap-6">
+    
+    <div class="bg-[#00379e] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition">
+      <center><i class="fa-solid fa-bolt"></i></center>
+      <h1 class="text-1xl  font-bold text-center text-white">Simplicité et accessibilité</h1>
+      <p class="text-sm text-gray-300">Notre plateforme intuitive vous permet de visualiser et gérer vos projets financiers en quelques clics.</p>
+    </div>
+
+
+
+  </div>
+</div>
 
 
 
@@ -95,9 +109,7 @@
 
 
 
-
-<script>
-</script>
+<script src="https://kit.fontawesome.com/0b85dff651.js" crossorigin="anonymous"></script>
 
 </body>
 </html>
