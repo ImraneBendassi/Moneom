@@ -9,7 +9,7 @@
     <title>Moneom</title>
     @vite('resources/css/app.css') <!-- Assurez-vous que le fichier CSS est chargé -->
 </head>
-<body class="bg-gray-100">
+<body class="bg-sky-950">
 <header class="bg-gray-800 text-white py-4">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex items-center justify-between">
@@ -74,6 +74,26 @@
     </button>
   </div>
 </div>
+<br />
+<div>
+  
+<h1 class="text-4xl  font-bold text-center text-white">
+    Pourquoi choisir Moneom ?
+</h1>
+  
+<p class="mt-6 text-lg md:text-xl text-gray-300 text-center max-w-3xl mx-auto leading-relaxed">
+    Plus qu'un simple outil financier, Moneom <br class="hidden md:block" />
+    transforme votre gestion patrimoniale en une expérience simple, claire et efficace.
+</p>
+</div>
+
+
+
+
+
+
+
+
 
 
 <script>
