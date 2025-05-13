@@ -55,6 +55,25 @@
   </div>
 </header>
 
+<div class="w-full bg-gradient-to-r from-[#1b1e2b] via-[#1b1f3a] to-[#232849] py-20 px-6 shadow-lg">
+  <h1 class="text-5xl md:text-6xl font-extrabold text-center text-white">
+    Votre patrimoine <span class="bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">à portée de main</span>
+  </h1>
+
+  <p class="mt-6 text-lg md:text-xl text-gray-300 text-center max-w-3xl mx-auto leading-relaxed">
+    Moneom vous guide pas à pas pour comprendre, maîtriser et <br class="hidden md:block" />
+    optimiser votre argent – le tout gratuitement et sans engagement.
+  </p>
+
+  <div class="mt-10 flex justify-center flex-wrap gap-4">
+    <button class="bg-gradient-to-r from-purple-500 to-indigo-500 text-white font-semibold py-3 px-6 rounded-xl hover:brightness-110 transition shadow-lg">
+      Commencer gratuitement
+    </button>
+    <button class="border border-blue-400 text-blue-300 font-semibold py-3 px-6 rounded-xl hover:bg-blue-900/20 transition shadow-lg">
+      Découvrir les fonctionnalités
+    </button>
+  </div>
+</div>
 
 
 <script>
