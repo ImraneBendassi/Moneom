@@ -204,8 +204,17 @@ Ce que disent nos utilisateurs</h1>
 
 </p></center>
 
-</div> 
+</div>
 
+
+<div class="bg-[#6a1b9a] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+        <div class="text-center">
+          <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+          <p class="text-sm text-gray-300">"Grâce à Moneom, j'ai enfin une vision claire de mon patrimoine immobilier. La gestion des loyers est devenue un jeu d'enfant !"</p>
+
+          <h3 class="text-lg font-bold mb-2">Marie L. - Investisseuse immobilier</h3>
+        </div>
+      </div>
 
 <script src="https://kit.fontawesome.com/0b85dff651.js" crossorigin="anonymous"></script>
 
