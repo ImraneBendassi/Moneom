@@ -94,12 +94,38 @@
     <div class="bg-[#00379e] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition">
       <center><i class="fa-solid fa-bolt"></i></center>
       <h1 class="text-1xl  font-bold text-center text-white">Simplicité et accessibilité</h1>
+      <br />
       <p class="text-sm text-gray-300">Notre plateforme intuitive vous permet de visualiser et gérer vos projets financiers en quelques clics.</p>
     </div>
 
+ <div class="bg-[#299200] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition">
+             <center><i class="fa-solid fa-shoe-prints"></i>
+      <h1 class="text-1xl  font-bold text-center text-white">Outil sur mesure</h1>
+      <br />
+      <p class="text-sm text-gray-300">Des solutions dédiées pour votre retraite, vos investissements immobiliers et la diversification de votre portefeuille.</p>
+    </div>
 
+    <div class="bg-[#9d0bff] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition">
+      <center><i class="fa-solid fa-gopuram"></i></center>
+      <h1 class="text-1xl  font-bold text-center text-white">Gestion immobilière</h1>
+      <br />
+      <p class="text-sm text-gray-300">Suivez vos loyers, automatisez les quittances et centralisez les informations de vos locataires.</p>
+    </div>
+
+    <div class="bg-[#d85600] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition">
+      <center><i class="fa-solid fa-lock"></i></center>
+      <h1 class="text-1xl  font-bold text-center text-white">Sécurité et confidentialité</h1>
+      <br />
+      <p class="text-sm text-gray-300">Vos données ne sont ni collectées ni partagées avec des tiers. Votre confiance est notre priorité.</p>
+    </div>
 
   </div>
+</div>
+
+<div>
+  <h1 class="text-4xl  font-bold text-center text-white">
+   Nos outils financiers
+</h1>
 </div>
 
 
