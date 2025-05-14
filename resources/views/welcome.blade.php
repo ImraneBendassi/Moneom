@@ -196,9 +196,15 @@
   </div>
 </div>
 
+<div>
+  <h1 class="text-4xl  font-bold text-center text-white">
+Ce que disent nos utilisateurs</h1>
+<br />
+ <center><p class="text-xl text-gray-300">Découvrez notre sélection d'outils dédiés à l'optimisation de votre patrimoine
 
+</p></center>
 
-
+</div> 
 
 
 <script src="https://kit.fontawesome.com/0b85dff651.js" crossorigin="anonymous"></script>
