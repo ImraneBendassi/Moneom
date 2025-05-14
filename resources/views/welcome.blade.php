@@ -207,7 +207,7 @@ Ce que disent nos utilisateurs</h1>
 </div>
 
 
-<div class="bg-[#6a1b9a] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+<div class="bg-[#2e54ff] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
         <div class="text-center">
           <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
           <p class="text-sm text-gray-300">"Grâce à Moneom, j'ai enfin une vision claire de mon patrimoine immobilier. La gestion des loyers est devenue un jeu d'enfant !"</p>
@@ -215,6 +215,18 @@ Ce que disent nos utilisateurs</h1>
           <h3 class="text-lg font-bold mb-2">Marie L. - Investisseuse immobilier</h3>
         </div>
       </div>
+
+      <div class="bg-[#6a1b9a] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+        <div class="text-center">
+          <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+          <p class="text-sm text-gray-300">"Préparer ma retraite me semblait compliqué jusqu'à ce que je découvre Moneom. L'outil de simulation m'a permis de définir un plan d'action concret."</p>
+
+          <h3 class="text-lg font-bold mb-2">Thomas D. - Cadre en entreprise</h3>
+        </div>
+      </div>
+
+  
+
 
 <script src="https://kit.fontawesome.com/0b85dff651.js" crossorigin="anonymous"></script>
 
