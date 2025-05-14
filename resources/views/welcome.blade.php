@@ -133,8 +133,12 @@
   <h1 class="text-4xl  font-bold text-center text-white">
    Nos outils financiers
 </h1>
-</div>
+<br />
+ <center><p class="text-xl text-gray-300">Découvrez notre sélection d'outils dédiés à l'optimisation de votre patrimoine
 
+</p></center>
+
+</div>
 
 
 
