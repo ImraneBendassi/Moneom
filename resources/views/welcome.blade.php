@@ -92,7 +92,7 @@
   <div class="max-w-6xl mx-auto px-4">
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 justify-items-center">
       
-      <div class="bg-[#00379e] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+      <div class="bg-[#273b5f] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
         <div class="text-center">
           <i class="fa-solid fa-bolt text-2xl mb-4"></i>
           <h1 class="text-lg font-bold mb-2">Simplicité et accessibilité</h1>
@@ -274,7 +274,56 @@ Ce que disent nos utilisateurs</h1>
 
   </div>
 </div>
+<br /> <br /> <br />
 
+<footer class="bg-sky-950 text-gray-400 py-10">
+  <div class="max-w-7xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
+    
+    <!-- Logo & description -->
+    <div>
+      <h2 class="text-white text-xl font-bold mb-4">Moneom</h2>
+      <p class="text-sm">Votre patrimoine à portée de main.</p>
+      <i class="fa-solid fa-computer"></i>
+    </div>
+
+    <!-- Navigation -->
+    <div>
+      <h3 class="text-white text-lg font-semibold mb-3">Nos outils</h3>
+      <ul class="space-y-2">
+        <li><a href="#" class="hover:text-white">Fire</a></li>
+        <li><a href="#" class="hover:text-white">Immobilier</a></li>
+        <li><a href="#" class="hover:text-white">Simulation Retraite</a></li>
+        <li><a href="#" class="hover:text-white">Optimisation Fiscale</a></li>
+      </ul>
+    </div>
+
+    <!-- Aide -->
+    <div>
+      <h3 class="text-white text-lg font-semibold mb-3">Lien utiles</h3>
+      <ul class="space-y-2">
+        <li><a href="#" class="hover:text-white">À propos</a></li>
+        <li><a href="#" class="hover:text-white">Blog</a></li>
+        <li><a href="#" class="hover:text-white">Témoignages</a></li>
+        <li><a href="#" class="hover:text-white">FAQ</a></li>
+      </ul>
+    </div>
+
+    <!-- Réseaux sociaux -->
+    <div>
+      <h3 class="text-white text-lg font-semibold mb-3">Contact</h3>
+      <div class="flex space-x-4">
+        <a href="#" class="hover:text-white"><i class="fab fa-facebook-f"></i></a>
+        <a href="#" class="hover:text-white"><i class="fab fa-twitter"></i></a>
+        <a href="#" class="hover:text-white"><i class="fab fa-linkedin-in"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Copyright -->
+  <div class="mt-10 text-center text-sm text-gray-500 border-t border-gray-700 pt-4">
+    &copy; 2025 Moneom. Tous droits réservés.
+  </div>
+</footer>
 
 <script src="https://kit.fontawesome.com/0b85dff651.js" crossorigin="anonymous"></script>
 
