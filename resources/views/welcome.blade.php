@@ -146,7 +146,7 @@
       
       <div class="bg-[#00379e] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
         <div class="text-center">
-          <i class="fa-solid fa-bolt text-2xl mb-4"></i>
+          <i class="fa-solid fa-house"></i>
           <h2 class="text-lg font-bold mb-2">Simulateur de Viager</h2>
           <p class="text-sm text-gray-300">Estimez rapidement la rentabilité et les conditions de votre investissement en viager</p>
         </div>
@@ -154,7 +154,7 @@
 
       <div class="bg-[#299200] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
         <div class="text-center">
-          <i class="fa-solid fa-shoe-prints text-2xl mb-4"></i>
+          <i class="fa-solid fa-shield-halved"></i>
           <h2 class="text-lg font-bold mb-2">IA Anti-fraude</h2>
           <p class="text-sm text-gray-300">Analysez vos documents avec notre IA anti-fraude</p>
         </div>
@@ -162,7 +162,7 @@
 
       <div class="bg-[#9d0bff] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
         <div class="text-center">
-          <i class="fa-solid fa-gopuram text-2xl mb-4"></i>
+          <i class="fa-solid fa-tower-observation"></i>
           <h2 class="text-lg font-bold mb-2">Bail Réel Solidaire</h2>
           <p class="text-sm text-gray-300">Évaluez vos opérations de rachat de biens immobiliers</p>
         </div>
@@ -170,7 +170,7 @@
 
       <div class="bg-[#d85600] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
         <div class="text-center">
-          <i class="fa-solid fa-lock text-2xl mb-4"></i>
+         <i class="fa-solid fa-fire"></i>
           <h2 class="text-lg font-bold mb-2">Retraite en avance FIRE</h2>
           <p class="text-sm text-gray-300">Planifiez votre indépendance financière et retraite anticipée</p>
         </div>
@@ -178,7 +178,7 @@
 
       <div class="bg-[#0288d1] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
         <div class="text-center">
-          <i class="fa-solid fa-chart-line text-2xl mb-4"></i>
+          <i class="fa-solid fa-sack-dollar"></i>
           <h2 class="text-lg font-bold mb-2">Réduction d'impôts</h2>
           <p class="text-sm text-gray-300">Optimisez votre fiscalité et réduisez vos impôts</p>
         </div>
@@ -186,7 +186,7 @@
 
       <div class="bg-[#6a1b9a] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
         <div class="text-center">
-          <i class="fa-solid fa-users text-2xl mb-4"></i>
+          <i class="fa-solid fa-globe"></i>
           <h2 class="text-lg font-bold mb-2">Société Offshore</h2>
           <p class="text-sm text-gray-300">Évaluez la possibilité d'une structure offshore pour votre société</p>
         </div>
