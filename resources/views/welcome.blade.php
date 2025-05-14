@@ -88,39 +88,46 @@
 </div>
 
 <br />
-<div>
-  <div class="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-6 gap-6">
-    
-    <div class="bg-[#00379e] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition">
-      <center><i class="fa-solid fa-bolt"></i></center>
-      <h1 class="text-1xl  font-bold text-center text-white">Simplicité et accessibilité</h1>
-      <br />
-      <p class="text-sm text-gray-300">Notre plateforme intuitive vous permet de visualiser et gérer vos projets financiers en quelques clics.</p>
-    </div>
+<div class="py-12">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 justify-items-center">
+      
+      <div class="bg-[#00379e] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+        <div class="text-center">
+          <i class="fa-solid fa-bolt text-2xl mb-4"></i>
+          <h1 class="text-lg font-bold mb-2">Simplicité et accessibilité</h1>
+          <p class="text-sm text-gray-300">Notre plateforme intuitive vous permet de visualiser et gérer vos projets financiers en quelques clics.</p>
+        </div>
+      </div>
 
- <div class="bg-[#299200] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition">
-             <center><i class="fa-solid fa-shoe-prints"></i>
-      <h1 class="text-1xl  font-bold text-center text-white">Outil sur mesure</h1>
-      <br />
-      <p class="text-sm text-gray-300">Des solutions dédiées pour votre retraite, vos investissements immobiliers et la diversification de votre portefeuille.</p>
-    </div>
+      <div class="bg-[#299200] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+        <div class="text-center">
+          <i class="fa-solid fa-shoe-prints text-2xl mb-4"></i>
+          <h1 class="text-lg font-bold mb-2">Outil sur mesure</h1>
+          <p class="text-sm text-gray-300">Des solutions dédiées pour votre retraite, vos investissements immobiliers et la diversification de votre portefeuille.</p>
+        </div>
+      </div>
 
-    <div class="bg-[#9d0bff] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition">
-      <center><i class="fa-solid fa-gopuram"></i></center>
-      <h1 class="text-1xl  font-bold text-center text-white">Gestion immobilière</h1>
-      <br />
-      <p class="text-sm text-gray-300">Suivez vos loyers, automatisez les quittances et centralisez les informations de vos locataires.</p>
-    </div>
+      <div class="bg-[#9d0bff] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+        <div class="text-center">
+          <i class="fa-solid fa-gopuram text-2xl mb-4"></i>
+          <h1 class="text-lg font-bold mb-2">Gestion immobilière</h1>
+          <p class="text-sm text-gray-300">Suivez vos loyers, automatisez les quittances et centralisez les informations de vos locataires.</p>
+        </div>
+      </div>
 
-    <div class="bg-[#d85600] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition">
-      <center><i class="fa-solid fa-lock"></i></center>
-      <h1 class="text-1xl  font-bold text-center text-white">Sécurité et confidentialité</h1>
-      <br />
-      <p class="text-sm text-gray-300">Vos données ne sont ni collectées ni partagées avec des tiers. Votre confiance est notre priorité.</p>
-    </div>
+      <div class="bg-[#d85600] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+        <div class="text-center">
+          <i class="fa-solid fa-lock text-2xl mb-4"></i>
+          <h1 class="text-lg font-bold mb-2">Sécurité et confidentialité</h1>
+          <p class="text-sm text-gray-300">Vos données ne sont ni collectées ni partagées avec des tiers. Votre confiance est notre priorité.</p>
+        </div>
+      </div>
 
+    </div>
   </div>
 </div>
+
 
 <div>
   <h1 class="text-4xl  font-bold text-center text-white">
