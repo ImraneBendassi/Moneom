@@ -254,6 +254,27 @@ Ce que disent nos utilisateurs</h1>
   </div>
 </div>
 
+<div class="max-w-5xl mx-auto bg-gradient-to-r from-[#1e3a8a] to-[#312e81] text-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition">
+  <div class="flex flex-col md:flex-row items-center md:items-start gap-6">
+
+    <!-- Contenu principal -->
+    <div class="w-full">
+      <h2 class="text-2xl font-bold mb-2">Prêt à prendre le contrôle de votre patrimoine ?</h2>
+      <p class="text-gray-200 text-md leading-relaxed">
+        Rejoignez dès aujourd'hui la communauté de ceux qui transforment leur gestion patrimoniale en une expérience simple, claire et efficace.
+      </p>
+
+      <!-- Bouton aligné à droite -->
+      <div class="mt-4 flex justify-end">
+        <button class="bg-yellow-400 text-gray-900 font-semibold py-2 px-4 rounded-lg hover:bg-yellow-300 transition">
+          Commencer gratuitement <i class="fa-solid fa-arrow-right"></i>
+        </button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
 
 <script src="https://kit.fontawesome.com/0b85dff651.js" crossorigin="anonymous"></script>
 
