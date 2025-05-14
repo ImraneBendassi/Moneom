@@ -207,32 +207,52 @@ Ce que disent nos utilisateurs</h1>
 </div>
 
 
-<div class="bg-[#2e54ff] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
-        <div class="text-center">
-          <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
-          <p class="text-sm text-gray-300">"Grâce à Moneom, j'ai enfin une vision claire de mon patrimoine immobilier. La gestion des loyers est devenue un jeu d'enfant !"</p>
+<div class="py-12">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 justify-items-center">
 
-          <h3 class="text-lg font-bold mb-2">Marie L. - Investisseuse immobilier</h3>
+      <div class="bg-[#2e54ff] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+        <div class="text-center space-y-4">
+          <div class="text-yellow-400 text-lg">
+            <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+          </div>
+          <p class="text-sm text-gray-300">
+            "Grâce à Moneom, j'ai enfin une vision claire de mon patrimoine immobilier. La gestion des loyers est devenue un jeu d'enfant !"
+          </p>
+          <h3 class="text-lg font-bold">Marie L. - Investisseuse immobilier</h3>
         </div>
       </div>
 
       <div class="bg-[#6a1b9a] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
-        <div class="text-center">
-          <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
-          <p class="text-sm text-gray-300">"Préparer ma retraite me semblait compliqué jusqu'à ce que je découvre Moneom. L'outil de simulation m'a permis de définir un plan d'action concret."</p>
-
-          <h3 class="text-lg font-bold mb-2">Thomas D. - Cadre en entreprise</h3>
+        <div class="text-center space-y-4">
+          <div class="text-yellow-400 text-lg">
+            <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+          </div>
+          <p class="text-sm text-gray-300">
+            "Préparer ma retraite me semblait compliqué jusqu'à ce que je découvre Moneom. L'outil de simulation m'a permis de définir un plan d'action concret."
+          </p>
+          <h3 class="text-lg font-bold">Thomas D. - Cadre en entreprise</h3>
         </div>
       </div>
 
-          <div class="bg-[#d41b1b] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
-        <div class="text-center">
-          <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
-          <p class="text-sm text-gray-300">"Je cherchais un outil gratuit pour optimiser ma fiscalité. Moneom a dépassé mes attentes avec des conseils pertinents et faciles à appliquer."</p>
-
-          <h3 class="text-lg font-bold mb-2">Sophie R. - Entrepreneur</h3>
+      <div class="bg-[#d41b1b] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+        <div class="text-center space-y-4">
+          <div class="text-yellow-400 text-lg">
+            <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+          </div>
+          <p class="text-sm text-gray-300">
+            "Je cherchais un outil gratuit pour optimiser ma fiscalité. Moneom a dépassé mes attentes avec des conseils pertinents et faciles à appliquer."
+          </p>
+          <h3 class="text-lg font-bold">Sophie R. - Entrepreneur</h3>
         </div>
       </div>
+
+    </div>
+  </div>
+</div>
 
 
 <script src="https://kit.fontawesome.com/0b85dff651.js" crossorigin="anonymous"></script>
