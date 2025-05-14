@@ -225,7 +225,14 @@ Ce que disent nos utilisateurs</h1>
         </div>
       </div>
 
-  
+          <div class="bg-[#d41b1b] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+        <div class="text-center">
+          <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i>
+          <p class="text-sm text-gray-300">"Je cherchais un outil gratuit pour optimiser ma fiscalité. Moneom a dépassé mes attentes avec des conseils pertinents et faciles à appliquer."</p>
+
+          <h3 class="text-lg font-bold mb-2">Sophie R. - Entrepreneur</h3>
+        </div>
+      </div>
 
 
 <script src="https://kit.fontawesome.com/0b85dff651.js" crossorigin="anonymous"></script>
