@@ -7,7 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Moneom</title>
-    @vite('resources/css/app.css') <!-- Assurez-vous que le fichier CSS est chargé -->
+    @vite('resources/css/app.css')
+    <script src="https://cdn.tailwindcss.com"></script> <!-- Assurez-vous que le fichier CSS est chargé -->
 </head>
 <body class="bg-sky-950">
 <header class="bg-gray-800 text-white py-4">
@@ -23,7 +24,7 @@
       <nav class="hidden md:flex flex-1 justify-center space-x-6">
         <a href="/" class="text-lg hover:text-gray-300">Accueil</a>
         <a href="/services" class="text-lg hover:text-gray-300">Fonctionnalités</a>
-        <a href="/resources" class="text-lg hover:text-gray-300">Ressources</a>
+        <a href="/" class="text-lg hover:text-gray-300">Ressources</a>
         <a href="/contact" class="text-lg hover:text-gray-300">Contact</a>
       </nav>
 
@@ -49,7 +50,7 @@
     <div id="mobileMenu" class="md:hidden mt-4 space-y-4 hidden">
       <a href="/" class="block text-lg text-white hover:text-gray-300">Accueil</a>
       <a href="/services" class="block text-lg text-white hover:text-gray-300">Fonctionnalités</a>
-      <a href="/resources" class="block text-lg text-white hover:text-gray-300">Ressources</a>
+      <a href="/resource.php" class="block text-lg text-white hover:text-gray-300">Ressources</a>
       <a href="/contact" class="block text-lg text-white hover:text-gray-300">Contact</a>
     </div>
   </div>
