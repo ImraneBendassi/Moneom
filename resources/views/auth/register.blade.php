@@ -16,7 +16,6 @@
                 @endforeach
             </ul>
         @endif
-
         <form method="POST" action="{{ url('/register') }}">
             @csrf
 
