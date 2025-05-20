@@ -10,8 +10,8 @@
     <title>Ressource</title>
 </head>
 <body>
-      
 
+<h1>Hello World</h1>
 <script src="https://cdn.tailwindcss.com"></script>
 </body>
 </html>
