@@ -1,9 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Auth;
-use Illuminate\Support\Facades\Hash;
+use App\Http\Controllers\AuthController;
+
+
 
 Route::get('/', function () {
     return view('welcome'); // ou ta vue d'accueil
@@ -21,26 +21,14 @@ Route::get('/ressource', function () {
     return view('ressource'); // resources/views/contact.blade.php
 });
 
-Route::get('/login', function () {
-    return view('login'); // on met ta page dans resources/views/login.blade.php
-});
+Route::get('/register', [AuthController::class, 'showRegister']);
+Route::post('/register', [AuthController::class, 'register']);
 
-Route::post('/login', function(Request $request) {
-    $credentials = $request->only('email', 'password');
+Route::get('/login', [AuthController::class, 'showLogin']);
+Route::post('/login', [AuthController::class, 'login']);
 
-    if (Auth::attempt($credentials)) {
-        $request->session()->regenerate();
-        return redirect('/dashboard');
-    }
+Route::get('/dashboard', function () {
+return view('auth.dashboard');
+})->middleware('auth');
 
-    return back()->withErrors([
-        'email' => 'Les identifiants sont incorrects.',
-    ]);
-});
-
-Route::get('/dashboard', function() {
-    if (!Auth::check()) {
-        return redirect('/login');
-    }
-    return "Vous êtes connecté, bienvenue " . Auth::user()->name;
-});
+Route::post('/logout', [AuthController::class, 'logout'])->middleware('auth');

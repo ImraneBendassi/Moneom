@@ -23,9 +23,9 @@
       <!-- Navigation centrée -->
       <nav class="hidden md:flex flex-1 justify-center space-x-6">
         <a href="/" class="text-lg hover:text-gray-300">Accueil</a>
-        <a href="/services" class="text-lg hover:text-gray-300">Fonctionnalités</a>
+        <a href="/r" class="text-lg hover:text-gray-300">Fonctionnalités</a>
         <a href="/" class="text-lg hover:text-gray-300">Ressources</a>
-        <a href="/contact" class="text-lg hover:text-gray-300">Contact</a>
+        <a href="/register" class="text-lg hover:text-gray-300">Contact</a>
       </nav>
 
       <!-- Menu Burger + Bouton -->

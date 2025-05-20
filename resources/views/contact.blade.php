@@ -24,6 +24,7 @@
 
       <!-- Form Connexion -->
       <form id="form-login" class="space-y-4" action="/login" method="POST">
+        @csrf
         <div>
           <label class="block text-sm mb-1">Adresse email</label>
           <input type="email" class="w-full px-4 py-2 rounded-md bg-gray-700 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-400" required>
