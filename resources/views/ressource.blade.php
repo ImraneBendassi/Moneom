@@ -54,8 +54,12 @@
     </div>
   </div>
 </header>
+<br /> <br /> <br />
 
-<h1>Hello World</h1>
+
+<h1 class="text-6xl md:text-6xl font-extrabold text-center text-blue">
+   Blog Moneom
+  </h1>
 <script src="https://cdn.tailwindcss.com"></script>
 </body>
 </html>
