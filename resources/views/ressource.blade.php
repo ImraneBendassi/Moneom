@@ -86,7 +86,10 @@
           Rechercher
         </button>
   </div>
-
+<br /> <br /> <br /> <br /> <br /> <br />
+<h1 class="text-4xl md:text-4xl font-extrabold text-white">
+    Articles récents
+</h1>
 <script src="https://cdn.tailwindcss.com"></script>
 </body>
 </html>
