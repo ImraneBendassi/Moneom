@@ -82,6 +82,11 @@
       </svg>
     </div>
   </div>
+  <button class="bg-yellow-400 text-gray-900 font-semibold py-2 px-4 rounded-lg hover:bg-yellow-300 transition">
+          Rechercher
+        </button>
+  </div>
+
 <script src="https://cdn.tailwindcss.com"></script>
 </body>
 </html>
