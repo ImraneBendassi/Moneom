@@ -60,6 +60,12 @@
 <h1 class="text-6xl md:text-6xl font-extrabold text-center text-blue">
    Blog Moneom
   </h1>
+
+  <p class="mt-6 text-lg md:text-xl text-gray-300 text-center max-w-3xl mx-auto leading-relaxed">
+   Découvrez nos articles et conseils pour optimiser votre patrimoine 
+ <br class="hidden md:block" />
+   et atteindre vos objectifs financiers.
+  </p>
 <script src="https://cdn.tailwindcss.com"></script>
 </body>
 </html>
