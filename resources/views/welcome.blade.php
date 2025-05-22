@@ -23,7 +23,7 @@
       <!-- Navigation centrée -->
       <nav class="hidden md:flex flex-1 justify-center space-x-6">
         <a href="/" class="text-lg hover:text-gray-300">Accueil</a>
-        <a href="/r" class="text-lg hover:text-gray-300">Fonctionnalités</a>
+        <a href="/" class="text-lg hover:text-gray-300">Fonctionnalités</a>
         <a href="/ressource" class="text-lg hover:text-gray-300">Ressources</a>
         <a href="/register" class="text-lg hover:text-gray-300">Contact</a>
       </nav>
