@@ -90,6 +90,22 @@
 <h1 class="text-4xl md:text-4xl font-extrabold text-white">
     Articles récents
 </h1>
+
+     <div class="bg-[#4e4e4e] text-white rounded-2xl p-6 shadow-md hover:shadow-lg transition w-full max-w-xs">
+        <div class="text-center space-y-4">resources\img\purina.png
+            <img src="resources\img\purina.png">
+          </div>
+          <p class="text-sm text-gray-300">
+            "Je cherchais un outil gratuit pour optimiser ma fiscalité. Moneom a dépassé mes attentes avec des conseils pertinents et faciles à appliquer."
+          </p>
+          <h3 class="text-lg font-bold">Sophie R. - Entrepreneur</h3>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
 <script src="https://cdn.tailwindcss.com"></script>
 </body>
 </html>
